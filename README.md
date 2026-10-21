@@ -102,7 +102,7 @@ Pick ONE and do it this week:
 - [ ] Watch one cloud tutorial on [AWS Developers YouTube](https://youtube.com/@awsdevelopers)
 - [ ] Google "Solutions Architect" and read about the role
 - [ ] Start the [Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials) course
-- [ ] Sign up at [AWS Builder Center](https://builder.aws.com/learn/students) and claim your Student Rewards ($579 value — free!)
+- [ ] Sign up at [AWS Builder Center](https://builder.aws.com/learn/students) and claim your Student Rewards
 - [ ] Tell a friend about cloud computing
 
 ---
