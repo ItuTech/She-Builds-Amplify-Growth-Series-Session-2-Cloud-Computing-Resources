@@ -15,7 +15,7 @@ Thank you for attending! Here are all the free resources I mentioned during the 
 |----------|-------------|------|
 | AWS Cloud Practitioner Essentials | Free course to prep for your first certification | [explore.skillbuilder.aws](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials) |
 | AWS Skill Builder | 1,000+ free courses, hands on labs, exam prep | [skillbuilder.aws](https://skillbuilder.aws) |
-| AWS Builder Center for Students | Badges, free Skill Builder Premium (12 months), certification voucher | [builder.aws/learn/students](https://builder.aws.com/learn/students) |
+| AWS Builder Center for Students | Badges, free Skill Builder Premium (12 months), certification voucher | [builder.aws/learn/students](builder.aws.com/learn/students) |
 | AWS Certified Cloud Practitioner | Foundational cert — no experience needed, globally recognised | [aws.amazon.com/certification/certified-cloud-practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) |
 | AWS Certified Solutions Architect Associate | Your next cert after Cloud Practitioner | [aws.amazon.com/certification/certified-solutions-architect-associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) |
 | freeCodeCamp Cloud Practitioner Course | Free 14 hour video course on YouTube | [freecodecamp.org/news/aws-certified-cloud-practitioner-study-course](https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/) |
