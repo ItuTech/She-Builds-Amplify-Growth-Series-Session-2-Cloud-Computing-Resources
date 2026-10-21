@@ -1,3 +1,4 @@
+
 # Cloud Computing: Your Gateway to Tech ☁️
 
 **She Builds Amplify Growth Series** | **Session 2** | **Sub-Saharan Africa**
@@ -12,18 +13,18 @@ Thank you for attending! Here are all the free resources I mentioned during the 
 
 | Resource | What You Get | Link |
 |----------|-------------|------|
-| AWS Cloud Practitioner Essentials | Free course to prep for your first certification | [Start Learning](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials) |
+| AWS Cloud Practitioner Essentials | Free course to prep for your first certification | [explore.skillbuilder.aws](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials) |
 | AWS Skill Builder | 1,000+ free courses, hands on labs, exam prep | [skillbuilder.aws](https://skillbuilder.aws) |
-| AWS Builder Center for Students | Badges, free Skill Builder Premium (12 months), certification vouchers | [AWS Builder Center](https://s12d.com/builder-center) |
-| Free 12 Month Skill Builder (Step by Step Guide) | How to sign up for 12 months of AWS Skill Builder for free | [Sign Up Guide](https://s12d.com/skill-builder-signup) |
-| AWS Certified Cloud Practitioner | Foundational cert — no experience needed, globally recognised | [Exam Guide](https://aws.amazon.com/certification/certified-cloud-practitioner/) |
-| AWS Certified Solutions Architect Associate | Your next cert after Cloud Practitioner | [Exam Guide](https://aws.amazon.com/certification/certified-solutions-architect-associate/) |
+| AWS Builder Center for Students | Badges, free Skill Builder Premium (12 months), certification voucher | [builder.aws/learn/students](https://builder.aws.com/learn/students) |
+| AWS Certified Cloud Practitioner | Foundational cert — no experience needed, globally recognised | [aws.amazon.com/certification/certified-cloud-practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) |
+| AWS Certified Solutions Architect Associate | Your next cert after Cloud Practitioner | [aws.amazon.com/certification/certified-solutions-architect-associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) |
+| freeCodeCamp Cloud Practitioner Course | Free 14 hour video course on YouTube | [freecodecamp.org/news/aws-certified-cloud-practitioner-study-course](https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/) |
 
 ## ☁️ Understand the Cloud
 
 | Resource | What It Covers | Link |
 |----------|---------------|------|
-| What is Cloud Computing? | AWS explanation of cloud basics | [Read More](https://aws.amazon.com/what-is-cloud-computing/) |
+| What is Cloud Computing? | AWS explanation of cloud basics | [aws.amazon.com/what-is-cloud-computing](https://aws.amazon.com/what-is-cloud-computing/) |
 | AWS Global Infrastructure | See all AWS regions including Cape Town 🇿🇦 | [infrastructure.aws](https://infrastructure.aws/) |
 | AWS Free Tier | 12 months of free access to real cloud services | [aws.amazon.com/free](https://aws.amazon.com/free/) |
 
@@ -39,10 +40,10 @@ Thank you for attending! Here are all the free resources I mentioned during the 
 
 | Resource | What It Does | Link |
 |----------|-------------|------|
-| AWS Cloud Clubs | Join or start a student led cloud club on your campus | [Cloud Clubs](https://s12d.com/cloud-clubs) |
-| AWS re/Start | Free 12 week training programme for career changers | [aws.amazon.com/restart](https://aws.amazon.com/training/restart/) |
-| AWS Student Hub | Student resources, community connections, exclusive content | [community.aws/students](https://community.aws/students) |
-| She Builds Community | You are already here — keep showing up! | [She Builds](https://shebuilds.aws) |
+| AWS Cloud Clubs | Join or start a student led cloud club on your campus | [builder.aws/community/student-builder-groups](https://builder.aws.com/community/student-builder-groups) |
+| AWS re/Start | Free 12 week training programme for career changers | [aws.amazon.com/training/restart](https://aws.amazon.com/training/restart/) |
+| AWS Student Hub | Student resources, community connections, exclusive content | [community.aws](https://community.aws) |
+| AWS Builder Center | Join the builder community, access tools and connect | [builder.aws](https://builder.aws.com/) |
 
 ---
 
@@ -98,11 +99,11 @@ A Solutions Architect is a **translator between people and technology**. They:
 Pick ONE and do it this week:
 
 - [ ] Create a free AWS account at [aws.amazon.com/free](https://aws.amazon.com/free/)
-- [ ] Watch one cloud tutorial on [AWS YouTube](https://youtube.com/@awsdevelopers)
+- [ ] Watch one cloud tutorial on [AWS Developers YouTube](https://youtube.com/@awsdevelopers)
 - [ ] Google "Solutions Architect" and read about the role
 - [ ] Start the [Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials) course
+- [ ] Sign up at [AWS Builder Center](https://builder.aws.com/learn/students) and claim your Student Rewards ($579 value — free!)
 - [ ] Tell a friend about cloud computing
-- [ ] Sign up for the [AWS Builder Center](https://s12d.com/builder-center) and earn your first badge
 
 ---
 
@@ -125,4 +126,6 @@ Pick ONE and do it this week:
 > *"The cloud does not care about your background. It cares about your curiosity. Start today."*
 
 Made with ☁️ by Itumeleng Mokgako
+
+
 
