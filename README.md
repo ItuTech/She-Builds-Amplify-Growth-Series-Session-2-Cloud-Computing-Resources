@@ -1,6 +1,5 @@
 # Cloud Computing: Your Gateway to Tech ☁️
 
-**She Builds Amplify Growth Series** | **Session 2** | **Sub-Saharan Africa**  
 Speaker: Itumeleng Mokgako | Solutions Architect, AWS  
 Date: 22 October 2026
 
@@ -103,22 +102,6 @@ Pick ONE and do it this week:
 - [ ] Start the [Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials) course
 - [ ] Create a free [AWS Builder ID](https://builder.aws.com/) and claim your free Student Rewards
 - [ ] Tell a friend about cloud computing
-
----
-
-## 📅 She Builds Amplify Growth Series — Full Schedule
-
-| Date | Session | Topic |
-|------|---------|-------|
-| 15 Oct 2026 | Session 1 | Career Growth Plan |
-| **22 Oct 2026** | **Session 2** | **Cloud Computing: Your Gateway to Tech** ← You are here |
-| 29 Oct 2026 | Session 3 | Career Growth and Development |
-| 05 Nov 2026 | Session 4 | Imposter Syndrome |
-| 12 Nov 2026 | Session 5 | Data, AI and ML |
-| 19 Nov 2026 | Session 6 | Self Advocacy and Branding |
-| 26 Nov 2026 | Session 7 | Leadership |
-
-> Complete all 7 sessions to earn your **Digital Completion Certificate** 🏆
 
 ---
 
